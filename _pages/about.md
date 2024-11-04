@@ -54,4 +54,6 @@ Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 *2021.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
 
 # 💻 Research Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2024.10*,  advised by Prof.Chang Liu, College of Engineering, Peking University.
+- *2024.06 - Now*, Reinforcement Learning on Soft Robotics, advised by Prof.Ke Liu, College of Engineering, Peking University.
+- *2024.07 - 2024.11*, 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes, advised by Prof.Masayoshi Tomizuka, School of Mechanical Engineering, UC Berkeley.
