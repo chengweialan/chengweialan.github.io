@@ -44,8 +44,9 @@ Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2025.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Boeing Scholarship (Third Prize), College of Engineering, Peking University
+- *2023* China Optics Valley Scholarship
+- *2023* Merit Student of Peking University
 
 # 📖 Educations
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
