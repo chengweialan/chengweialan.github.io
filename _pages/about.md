@@ -50,7 +50,7 @@ Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 
 # 📖 Educations
 <span style="display: inline-block; vertical-align: middle;">
-  <img src="path/to/pku.png" alt="Peking University Logo" style="height: 1em; margin-right: 8px;">
+  <img src="images/pku.png" alt="Peking University Logo" style="height: 1em; margin-right: 8px;">
 </span>
 
 - *2021.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
