@@ -49,6 +49,10 @@ Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 - *2025.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
+<span style="display: inline-block; vertical-align: middle;">
+  <img src="path/to/beijing-university-logo.png" alt="Peking University Logo" style="height: 1em; margin-right: 8px;">
+</span>
+
 - *2021.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
 
 # 💻 Research Experiences
