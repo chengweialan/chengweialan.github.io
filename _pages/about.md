@@ -38,6 +38,7 @@ and Surface Reconstruction for Urban Driving Scenes](https://github.com/chengwei
 Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 
 [**Project**](https://github.com/chengweialan/chengweialan.github.io/settings/pages) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 -We present DeSiRe-GS, a self-supervised gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction inchallenging driving scenarios. 
 </div>
 </div>
