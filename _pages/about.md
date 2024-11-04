@@ -50,6 +50,5 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *20121.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
 
-
 # 💻 Research Experiences
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
