@@ -26,15 +26,15 @@ My research interests include robotic navigation, path planning, and 3D reconstr
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
     <div style="text-align: center; width: 30%;">
         <img src="images/hangzhou.png" alt="Photo 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Photo 1 Description</div>
+        <div style="margin-top: 8px;">Chengwei in Hangzhou</div>
     </div>
     <div style="text-align: center; width: 30%;">
         <img src="images/dom.jpeg" alt="Photo 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Photo 2 Description</div>
+        <div style="margin-top: 8px;">Chengwei at Dormitory</div>
     </div>
     <div style="text-align: center; width: 30%;">
         <img src="images/golden.jpeg" alt="Photo 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Photo 3 Description</div>
+        <div style="margin-top: 8px;">Chengwei in SFO</div>
     </div>
 </div>
 
