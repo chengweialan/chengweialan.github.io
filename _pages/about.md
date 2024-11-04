@@ -32,11 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
-and Surface Reconstruction for Urban Driving Scenes](https://github.com/chengweialan/chengweialan.github.io/settings/pages)
+and Surface Reconstruction for Urban Driving Scenes](https://chatgpt.com/)
 
 Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 
-[**Project**](https://github.com/chengweialan/chengweialan.github.io/settings/pages) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://chatgpt.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 -We present DeSiRe-GS, a self-supervised gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction inchallenging driving scenarios. 
 </div>
