@@ -78,13 +78,13 @@ and Surface Reconstruction for Urban Driving Scenes***
 - *2023* China Optics Valley Scholarship
 - *2023* Merit Student of Peking University
 
-# 📖 Educations
+# 📖 Education
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
 *2021.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
 
 # 💻 Research Experiences
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
-*2023.05 - 2024.10*, Efficient Vision-guided Active SLAM Based On Terrain Information, advised by Prof.Chang Liu, College of Engineering, Peking University.
+*2023.05 - 2024.10*, Efficient Vision-guided Active SLAM Based on Terrain Information, advised by Prof.Chang Liu, College of Engineering, Peking University.
 
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
 *2024.06 - Now*, Reinforcement Learning on Soft Robotics, advised by Prof.Ke Liu, College of Engineering, Peking University.
