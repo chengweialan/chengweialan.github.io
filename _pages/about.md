@@ -31,9 +31,6 @@ I am a fourth-year student at the College of Engineering, Peking University, set
 
 To date, I have contributed to three research projects in these areas, and I look forward to expanding my expertise further in the coming years.
 
-My research interests lie in robotic navigation, perception and , with a particular emphasis on integrating machine learning into these areas. To date, I have contributed to three research projects in these fields, and I look forward to expanding my expertise further in the coming years.
-
-
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025.
 
