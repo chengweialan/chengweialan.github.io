@@ -45,7 +45,7 @@ I am particularly passionate about applying machine learning methods to elevate 
     <figcaption>Chengwei at Google campus</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="images/golden.png" alt="Image 3" width="30%">
+    <img src="images/golden.jpeg" alt="Image 3" width="30%">
     <figcaption>Chengwei in SFO</figcaption>
   </figure>
   
