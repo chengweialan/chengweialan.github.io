@@ -45,11 +45,12 @@ I am particularly passionate about applying machine learning methods to elevate 
 <div class='paper-box-text' markdown="1">
 
 [DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
-and Surface Reconstruction for Urban Driving Scenes](https://chatgpt.com/)
+and Surface Reconstruction for Urban Driving Scenes]
 
-Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye
 
-[**Project**](https://chatgpt.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye -->
+
+<!-- [**Project**](https://chatgpt.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 -We present DeSiRe-GS, a self-supervised gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction inchallenging driving scenarios. 
 </div>
