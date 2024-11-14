@@ -24,12 +24,16 @@ I am a fourth-year student at the College of Engineering, Peking University, set
 
 ## Research Interests
 
-**Robotic Navigation**: Exploring efficient and adaptive navigation techniques for autonomous systems.
-- **Perception**: Focusing on real-time perception and environment understanding for robots.
-- **3D Reconstruction**: Investigating methods for creating accurate 3D models from sensor data.
-- **Machine Learning Applications**: Emphasizing the integration of machine learning to enhance robotic capabilities in navigation, perception, and reconstruction tasks.
+**Robotic Navigation**
+- **Efficient Path Planning and Decision Making**
+- **Learning-based Exploration**
+- **Visual SLAM**
 
-To date, I have contributed to three research projects in these areas, and I look forward to expanding my expertise further in the coming years.
+**Autonomous Driving**
+- **3D Scene Reconstruction**
+- **Perception and Sensor Fusion**
+
+I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025.
