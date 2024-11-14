@@ -36,20 +36,18 @@ I am a fourth-year student at the College of Engineering, Peking University, set
 I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
 
 <div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center;">
-    <img src="images/home.jpg" alt="Image 1" width="30%">
+  <figure style="text-align: center; width: 30%;">
+    <img src="images/home.jpg" alt="Image 1" style="height: 150px; width: auto;">
     <figcaption>Chengwei in hometown</figcaption>
   </figure>
-  <figure style="text-align: center;">
-    <img src="images/google.jpg" alt="Image 2" width="30%">
+  <figure style="text-align: center; width: 30%;">
+    <img src="images/google.jpg" alt="Image 2" style="height: 150px; width: auto;">
     <figcaption>Chengwei at Google campus</figcaption>
   </figure>
-  <figure style="text-align: center;">
-    <img src="images/golden.jpeg" alt="Image 3" width="30%">
+  <figure style="text-align: center; width: 30%;">
+    <img src="images/golden.jpeg" alt="Image 3" style="height: 150px; width: auto;">
     <figcaption>Chengwei in SFO</figcaption>
   </figure>
-  
-  
 </div>
 
 # 🔥 News
