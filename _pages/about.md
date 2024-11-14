@@ -23,21 +23,6 @@ I'm a fourth-year student at the College of Engineering, Peking University, expe
 
 My research interests include robotic navigation, path planning, and 3D reconstruction, with a particular focus on the application of machine learning methods in these areas. So far, I have three research projects related to these fields and look forward to expanding my knowledge and expertise further.
 
-<div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <div style="text-align: center; width: 30%;">
-        <img src="images/hangzhou.png" alt="Photo 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Chengwei in Hangzhou</div>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <img src="images/dom.jpeg" alt="Photo 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Chengwei at Dormitory</div>
-    </div>
-    <div style="text-align: center; width: 30%;">
-        <img src="images/golden.jpeg" alt="Photo 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-        <div style="margin-top: 8px;">Chengwei in SFO</div>
-    </div>
-</div>
-
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025.
