@@ -19,9 +19,19 @@ redirect_from:
 
 # 😊 About Me
 
-I'm a fourth-year student at the College of Engineering, Peking University, expecting to graduate with a dual degree in Robotics Engineering and Mechanics. I have a diverse range of interests and enjoy socializing with people from different backgrounds. As a passionate football enthusiast, I love discussing and participating in the sport. I welcome opportunities to engage in academic conversations and connect with those who share similar interests. Don't hesitate to reach out for discussions or collaborations!
 
-My research interests include robotic navigation, path planning, and 3D reconstruction, with a particular focus on the application of machine learning methods in these areas. So far, I have three research projects related to these fields and look forward to expanding my knowledge and expertise further.
+I am a fourth-year student at the College of Engineering, Peking University, set to graduate with a dual degree in Robotics Engineering and Mechanics. My interests are broad and diverse, and I enjoy connecting with people from all walks of life. As a dedicated football enthusiast, I find joy both in playing the sport and in discussing it with others. I’m always open to academic conversations and welcome any opportunity for discussions or collaborations with like-minded individuals.
+
+## Research Interests
+
+**Robotic Navigation**: Exploring efficient and adaptive navigation techniques for autonomous systems.
+- **Perception**: Focusing on real-time perception and environment understanding for robots.
+- **3D Reconstruction**: Investigating methods for creating accurate 3D models from sensor data.
+- **Machine Learning Applications**: Emphasizing the integration of machine learning to enhance robotic capabilities in navigation, perception, and reconstruction tasks.
+
+To date, I have contributed to three research projects in these areas, and I look forward to expanding my expertise further in the coming years.
+
+My research interests lie in robotic navigation, perception and , with a particular emphasis on integrating machine learning into these areas. To date, I have contributed to three research projects in these fields, and I look forward to expanding my expertise further in the coming years.
 
 
 # 🔥 News
