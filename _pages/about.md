@@ -38,17 +38,18 @@ I am particularly passionate about applying machine learning methods to elevate 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
     <img src="images/home.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
-    <figcaption>Chengwei in his hometown</figcaption>
+    <figcaption style="text-align: center;">Chengwei in his hometown</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
-    <img src="images/golden.jpeg" alt="Image 2" style="max-width: 100%; height: auto;">
-    <figcaption>Chengwei in SFO</figcaption>
+    <img src="images/google.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
+    <figcaption style="text-align: center;">Chengwei at Google campus</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
     <img src="images/hangzhou.png" alt="Image 3" style="max-width: 100%; height: auto;">
-    <figcaption>Chengwei in Hangzhou</figcaption>
+    <figcaption style="text-align: center;">Chengwei in Hangzhou</figcaption>
   </figure>
 </div>
+
 
 
 # 🔥 News
