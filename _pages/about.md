@@ -37,15 +37,15 @@ I am particularly passionate about applying machine learning methods to elevate 
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 0;">
-    <img src="images/home.jpg" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="images/home.jpg" alt="Image 1" style="width: 300px; height: 200px; object-fit: cover;">
     <figcaption style="margin-top: 10px;">Chengwei in his hometown</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 0;">
-    <img src="images/golden.jpeg" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="images/golden.jpeg" alt="Image 2" style="width: 300px; height: 200px; object-fit: cover;">
     <figcaption style="margin-top: 10px;">Chengwei in SFO</figcaption>
   </figure>
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 0;">
-    <img src="images/hangzhou.png" alt="Image 3" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="images/hangzhou.png" alt="Image 3" style="width: 300px; height: 200px; object-fit: cover;">
     <figcaption style="margin-top: 10px;">Chengwei in Hangzhou</figcaption>
   </figure>
 </div>
