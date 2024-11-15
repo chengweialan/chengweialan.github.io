@@ -66,7 +66,7 @@ I am particularly passionate about applying machine learning methods to elevate 
 and Surface Reconstruction for Urban Driving Scenes***
 
 
-<!-- Chensheng Peng, **Chengwei Zhang**, Yixiao Wang, Yichen Ye -->
+Chensheng Peng*, **Chengwei Zhang***, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
 
 <!-- [**Project**](https://chatgpt.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
