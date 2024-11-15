@@ -22,6 +22,8 @@ redirect_from:
 
 I am a fourth-year student at the College of Engineering, Peking University, set to graduate with a dual degree in Robotics Engineering and Mechanics. My interests are broad and diverse, and I enjoy connecting with people from all walks of life. As a dedicated football enthusiast, I find joy both in playing the sport and in discussing it with others. I’m always open to academic conversations and welcome any opportunity for discussions or collaborations with like-minded individuals.
 
+I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
+
 ## Research Interests
 
 **Robotic Navigation**
@@ -33,7 +35,7 @@ I am a fourth-year student at the College of Engineering, Peking University, set
 - **3D Scene Reconstruction**
 - **Perception and Sensor Fusion**
 
-I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
+
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
   <figure style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: 0;">
