@@ -41,8 +41,8 @@ I am particularly passionate about applying machine learning methods to elevate 
     <figcaption style="text-align: center;">Chengwei in his hometown</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
-    <img src="images/google.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
-    <figcaption style="text-align: center;">Chengwei at Google campus</figcaption>
+    <img src="images/golden.jpeg" alt="Image 2" style="max-width: 100%; height: auto;">
+    <figcaption style="text-align: center;">Chengwei in SFO</figcaption>
   </figure>
   <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
     <img src="images/hangzhou.png" alt="Image 3" style="max-width: 100%; height: auto;">
