@@ -35,17 +35,17 @@ I am a fourth-year student at the College of Engineering, Peking University, set
 
 I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <figure style="text-align: center; width: 30%; display: inline-block; margin: 0;">
-    <img src="images/home.jpg" alt="Image 1" style="height: 225px; width: auto;">
-    <figcaption>Chengwei in hometown</figcaption>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
+    <img src="images/home.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
+    <figcaption>Chengwei in his hometown</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%; display: inline-block; margin: 0;">
-    <img src="images/google.jpg" alt="Image 2" style="height: 225px; width: auto;">
-    <figcaption>Chengwei at Google campus</figcaption>
+  <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
+    <img src="images/golden.jpeg" alt="Image 2" style="max-width: 100%; height: auto;">
+    <figcaption>Chengwei in SFO</figcaption>
   </figure>
-  <figure style="text-align: center; width: 30%; display: inline-block; margin: 0;">
-    <img src="images/hangzhou.png" alt="Image 3" style="height: 225px; width: auto;">
+  <figure style="text-align: center; flex: 1 1 30%; max-width: 30%; margin: 0;">
+    <img src="images/hangzhou.png" alt="Image 3" style="max-width: 100%; height: auto;">
     <figcaption>Chengwei in Hangzhou</figcaption>
   </figure>
 </div>
