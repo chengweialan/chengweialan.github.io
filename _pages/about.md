@@ -74,7 +74,6 @@ Chensheng Peng*, **Chengwei Zhang***, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenz
 </div>
 </div>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -83,20 +82,23 @@ Chensheng Peng*, **Chengwei Zhang***, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenz
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <p style="font-size: 1.5em; font-weight: bold; margin: 0;">
+
+    <p style="font-family: 'Georgia', serif; font-size: 1.5em; font-weight: bold; margin: 0;">
       ***DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
       and Surface Reconstruction for Urban Driving Scenes***
     </p>
 
-    <p style="font-size: 1.2em; font-weight: 500; margin: 10px 0;">
+    <p style="font-family: 'Arial', sans-serif; font-size: 1.2em; font-weight: 500; margin: 10px 0;">
       Chensheng Peng*, <strong>Chengwei Zhang*</strong>, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
     </p>
 
-    <p style="font-size: 1em; font-weight: normal; margin: 10px 0;">
+    <p style="font-family: 'Times New Roman', serif; font-size: 1em; font-weight: normal; margin: 10px 0;">
       - We present DeSiRe-GS, a self-supervised Gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction in challenging driving scenarios.
     </p>
   </div>
 </div>
+
+
 
 
 # 🎖 Honors and Awards
