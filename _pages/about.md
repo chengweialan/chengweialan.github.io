@@ -66,9 +66,10 @@ I am particularly passionate about applying machine learning methods to elevate 
 and Surface Reconstruction for Urban Driving Scenes***
 
 
-Chensheng Peng*, **Chengwei Zhang***, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
+Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
 
 <!-- [**Project**](https://chatgpt.com/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+---
 
 -We present DeSiRe-GS, a self-supervised gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction inchallenging driving scenarios. 
 </div>
