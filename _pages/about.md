@@ -54,13 +54,13 @@ I am particularly passionate about applying machine learning methods to elevate 
 
 
 
-
+<!--
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025.
-
+-->
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2025</div><img src='images/cvpr20252.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,7 +76,7 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 -We present DeSiRe-GS, a self-supervised gaussian splatting representation, enabling effective static-dynamic decomposition and high-fidelity surface reconstruction inchallenging driving scenarios. 
 </div>
 </div>
-
+-->
 
 
 
