@@ -99,3 +99,7 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 
 <img src="images/ucb.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
 *2024.07 - 2024.11*, 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes, advised by Prof.Masayoshi Tomizuka, School of Mechanical Engineering, UC Berkeley.
+
+# 🛠️ Skills and Tools
+- **Programming Languages**: C, C++, Python, Shell, MATLAB
+- **Useful Tools**: Linux, PyTorch, ROS, LaTeX, Gazebo, Mujoco, SolidWorks
