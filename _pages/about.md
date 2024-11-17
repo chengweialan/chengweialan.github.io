@@ -54,10 +54,8 @@ I am particularly passionate about applying machine learning methods to elevate 
 
 
 
-<!--
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025.
--->
+- No updates, no problems.
 
 # 📝 Publications 
 
@@ -105,7 +103,7 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 - **Useful Tools**: Linux, PyTorch, ROS, LaTeX, Gazebo, Mujoco, SolidWorks
 
 
-<div style="background-color: #e6f7ff; padding: 30px; padding-bottom: 50px; border-radius: 8px; text-align: center; margin-top: 40px; font-size: 1.1em; line-height: 1.8;">
+<div style="background-color: #e6f7ff; padding: 30px; padding-bottom: 80px; border-radius: 8px; text-align: center; margin-top: 40px; font-size: 1.1em; line-height: 1.8;">
     <p style="font-size: 1.4em; font-weight: bold; margin: 0;">📫 <strong>Contact Me</strong></p>
     <p style="margin: 10px 0;">Feel free to reach out if you have any questions, opportunities, or simply want to connect!</p>
     <p style="margin: 10px 0;">📧 <strong>Email 1:</strong> <a href="mailto:2100011155@stu.pku.edu.cn" style="text-decoration: none; color: #0073e6;">2100011155@stu.pku.edu.cn</a></p>
