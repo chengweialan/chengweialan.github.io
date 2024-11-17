@@ -103,3 +103,11 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 # 🛠️ Skills and Tools
 - **Programming Languages**: C, C++, Python, Shell, MATLAB
 - **Useful Tools**: Linux, PyTorch, ROS, LaTeX, Gazebo, Mujoco, SolidWorks
+
+
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 8px; text-align: center; margin-top: 40px;">
+    <p style="font-size: 1.2em; margin: 0;">📫 <strong>Contact Me</strong></p>
+    <p style="font-size: 1em; margin: 5px 0;">Feel free to reach out if you have any questions or opportunities to discuss!</p>
+    <p style="font-size: 1.2em; font-weight: bold; margin: 10px 0;">📧 <a href="mailto:your_email@example.com" style="text-decoration: none; color: #0073e6;">your_email@example.com</a></p>
+</div>
+
