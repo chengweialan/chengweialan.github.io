@@ -55,7 +55,7 @@ I am particularly passionate about applying machine learning methods to elevate 
 
 
 # 🔥 News
-- No updates, no problems. Peace means progress.
+- Peace means progress.
 
 # 📝 Publications 
 
