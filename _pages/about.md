@@ -62,8 +62,8 @@ I am particularly passionate about applying machine learning methods to elevate 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cvpr20252.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
-and Surface Reconstruction for Urban Driving Scenes***
+[***DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
+and Surface Reconstruction for Urban Driving Scenes***](https://arxiv.org/abs/2411.11921)
 
 
 Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
