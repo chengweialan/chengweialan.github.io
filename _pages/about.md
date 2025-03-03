@@ -55,11 +55,11 @@ I am particularly passionate about applying machine learning methods to elevate 
 
 
 # 🔥 News
-- Peace means progress.
+- One paper accepted by CVPR 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cvpr20252.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr20252.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [***DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition
