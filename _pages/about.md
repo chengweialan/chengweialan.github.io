@@ -20,20 +20,26 @@ redirect_from:
 # 😊 About Me
 
 
-I am a fourth-year student at the College of Engineering, Peking University, set to graduate with a dual degree in Robotics Engineering and Mechanics. My interests are broad and diverse, and I enjoy communicating with people from all walks of life. As a dedicated football enthusiast, I find joy both in playing the sport and in discussing it with others. I’m always open to academic conversations and welcome any opportunity for discussions or collaborations with like-minded individuals.
+I am a first-year RPG student of the Department of Electrical and Electronic Engineering (EEE) at the University of Hong Kong, advised by Prof. Yanchao Yang and Prof. Yi Ma. Before, I received my bachelor's degree in Robotics Engineering and Theoretical and Applied Mechanics at Peking University. During my undergraduate studies, I was fortunate to be advised by Prof. Chang Liu at the Autonomous Robots Lab (ARL) at Peking University.
+
+My interests are broad and diverse, and I enjoy communicating with people from all walks of life. As a dedicated football enthusiast, I find joy both in playing the sport and in discussing it with others. I’m always open to academic conversations and welcome any opportunity for discussions or collaborations with like-minded individuals.
 
 I am particularly passionate about applying machine learning methods to elevate robotic capabilities in navigation, perception, and reconstruction tasks. So far, I have contributed to three research projects in these fields, and I look forward to deepening my expertise and broadening my impact in the years to come.
 
 ## Research Interests
 
 **Robotic Navigation**
-- **Efficient Path Planning and Decision Making**
-- **Learning-based Exploration**
+- **Autonomous Exploration**
 - **Visual SLAM**
 
 **Autonomous Driving**
-- **3D Scene Reconstruction**
+- **Dynamimc Scene Reconstruction**
 - **Perception and Sensor Fusion**
+
+**3D Vision**
+- **Scene Reconstruction**
+- **Point Cloud Perception**
+
 
 
 
