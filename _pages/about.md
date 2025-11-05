@@ -89,10 +89,13 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 - *2022* Boeing Scholarship (Third Prize), College of Engineering, Peking University
 - *2023* China Optics Valley Scholarship
 - *2023* Merit Student of Peking University
+- *2024* Huatai Securities Science and Technology Scholarship 
+- *2024* Merit Student of Peking University
 
 # 📖 Education
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
-*2021.09 - 2025.07 (expected)*, B.S. in Robotics and Mechanics, College of Engineering, Peking University
+*2021.09 - 2025.07, B.S. in Robotics and Mechanics, College of Engineering, Peking University
+*2025.9 - Now, Department of Electrical and Electronic Engineering, the University of Hong Kong
 
 # 💻 Research Experiences
 <img src="images/pku.png" alt="Peking University Logo" style="height: 2em; vertical-align: middle; margin-right: 8px;"> 
@@ -112,7 +115,7 @@ Chensheng Peng\*, **Chengwei Zhang**\*, Yixiao Wang, Chenfeng Xu, Yichen Xie, We
 <div style="background-color: #e6f7ff; padding: 30px; padding-bottom: 80px; border-radius: 8px; text-align: center; margin-top: 40px; font-size: 1.1em; line-height: 1.8;">
     <p style="font-size: 1.4em; font-weight: bold; margin: 0;">📫 <strong>Contact Me</strong></p>
     <p style="margin: 10px 0;">Feel free to reach out if you have any questions, opportunities, or simply want to connect!</p>
-    <p style="margin: 10px 0;">📧 <strong>Email 1:</strong> <a href="mailto:2100011155@stu.pku.edu.cn" style="text-decoration: none; color: #0073e6;">2100011155@stu.pku.edu.cn</a></p>
+    <p style="margin: 10px 0;">📧 <strong>Email 1:</strong> <a href="mailto:u3013969@connect.hku.hk" style="text-decoration: none; color: #0073e6;">u3013969@connect.hku.hk</a></p>
     <p style="margin: 10px 0;">📧 <strong>Email 2:</strong> <a href="mailto:chengweialan@gmail.com" style="text-decoration: none; color: #0073e6;">chengweialan@gmail.com</a></p>
     <div style="margin-top: 30px;"></div> <!-- 内部留白 -->
 </div>
