@@ -20,7 +20,7 @@ redirect_from:
 # 😊 About Me
 
 
-I am a first-year RPG student of the <a href="https://www.eee.hku.hk">Department of Electrical and Electronic Engineering (EEE)</a> at the University of Hong Kong, advised by <a href="https://yanchaoyang.github.io">Prof. Yanchao Yang</a> and <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi">Prof. Yi Ma</a>. Before, I received my bachelor's degree in Robotics Engineering and Theoretical and Applied Mechanics at Peking University. During my undergraduate studies, I was fortunate to be advised by Prof. Chang Liu at the Autonomous Robots Lab (ARL) at Peking University.
+I am a first-year RPG student of the <a href="https://www.eee.hku.hk">Department of Electrical and Electronic Engineering (EEE)</a> at the University of Hong Kong, advised by <a href="https://yanchaoyang.github.io">Prof. Yanchao Yang</a> and <a href="https://www.cs.hku.hk/index.php/people/academic-staff/mayi">Prof. Yi Ma</a>. Before, I received my bachelor's degree in Robotics Engineering and Theoretical and Applied Mechanics at Peking University. During my undergraduate studies, I was fortunate to be advised by <a href="https://www.coe.pku.edu.cn/teaching/all_time/10394.html">Prof. Chang Liu</a> at the <a href="http://www2.coe.pku.edu.cn/FACULTY/LIUCHANG/INDEX.HTML">Autonomous Robots Lab (ARL)</a> at Peking University.
 
 My interests are broad and diverse, and I enjoy communicating with people from all walks of life. As a dedicated football enthusiast, I find joy both in playing the sport and in discussing it with others. I’m always open to academic conversations and welcome any opportunity for discussions or collaborations with like-minded individuals.
 
