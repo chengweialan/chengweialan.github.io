@@ -18,5 +18,8 @@ main:
   - title: "Research Experiences"
     url: "/#-research-experiences"
 
+  - title: "Blog"
+    url: "https://chengweialan.github.io/my-blog/"
+
   - title: "CV"
     url: "images/CV.pdf"
